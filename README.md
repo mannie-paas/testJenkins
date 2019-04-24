@@ -1,4 +1,4 @@
-# testJenkins on local with War
+# To test Jenkins on local with War
 
 * Download the WAR from Jenkins site:
 	https://jenkins.io/doc/book/installing/#war-file
