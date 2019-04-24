@@ -17,3 +17,6 @@ INFO: Jenkins is fully up and running
 
 By default, jenkins starts up on 8080 port. It can be reached by using the URL: http://localhost:8080
 
+## License
+
+MIT © Mandeep "Manny" Sah 
