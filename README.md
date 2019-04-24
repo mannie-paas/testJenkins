@@ -1,9 +1,9 @@
 # How to set up Jenkins on localhost with war
 
-* Download the WAR from Jenkins site:
+Download the WAR from Jenkins site:
 	https://jenkins.io/doc/book/installing/#war-file
 
-* Start Jenkins: 
+Start Jenkins: 
 
 `
 java -jar jenkins.war --enable-future-java
