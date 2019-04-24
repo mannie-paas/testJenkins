@@ -1,4 +1,4 @@
-# How to set up Jenkins on localhost with War
+# How to set up Jenkins on localhost with war
 
 * Download the WAR from Jenkins site:
 	https://jenkins.io/doc/book/installing/#war-file
